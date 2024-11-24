@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Мои навыки:
-Sckreach, Python Base, Pyton pro, PythonLVL3, разработка игр на Python
+Sckreach, Python Base, Pyton pro, PythonLVL3, разработка игр на Python, WEB Disign
 <!--
 **invisible-666/invisible-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
